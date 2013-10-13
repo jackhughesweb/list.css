@@ -5,6 +5,8 @@ Different types of lists in one stylesheet
 
 ## Vertical list
 
+![Vertical list image](examples/img/list--vertical.png)
+
 ```html
 <ul class="list--vertical">
   <li>Awesome</li>
@@ -14,6 +16,8 @@ Different types of lists in one stylesheet
 </ul>
 ```
 ## Horizontal list
+
+![Horizontal list image](examples/img/list--horizontal.png)
 
 ```html
   <ul class="list--horizontal">
@@ -25,6 +29,8 @@ Different types of lists in one stylesheet
 ```
 ## Large horizontal list
 
+![Large horizontal list image](examples/img/list--horizontal-large.png)
+
 ```html
 <ul class="list--horizontal list--large">
   <li>Awesome</li>
@@ -35,6 +41,8 @@ Different types of lists in one stylesheet
 ```
 
 ## Image list
+
+![Image list image](examples/img/list--image.png)
 
 ```html
 <ul class="list--horizontal list--image">
